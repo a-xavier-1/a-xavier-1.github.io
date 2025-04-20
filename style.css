@@ -1,0 +1,56 @@
+* {
+  background-color: rgb(0, 0, 0);
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 10px;
+  border: white 5px solid;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.content {
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 10px 0;
+  border: white 5px solid;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.tabs {
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 10px;
+  border: white 5px solid;
+  border-radius: 0 0 10px 10px;
+  text-align: center;
+  margin: 0px 30px 20px 30px;
+}
+
+.tab {
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 10px;
+  border: white 5px solid;
+  border-radius: 10px;
+  text-align: center;
+}
+.tab:hover {
+  background-color: rgb(41, 41, 41);
+}
+
+.tab a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.invisible {
+  border: none;
+  margin: 10px;
+  text-decoration: none;
+}
